@@ -1,0 +1,19 @@
+title: CTF Writeup Deep Dives
+description: Comprehensive HTB CTF solutions for nerds
+baseurl: "" # Leave empty for user.github.io site
+url: "https://nocturne-42.github.io"
+
+remote_theme: jekyllt/jasper2
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+highlighter: rouge
+
+paginate: 5
+paginate_path: "/page:num/"
+
+author: Me
