@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "Welcome"
 ---
 ## Welcome to my CTF Archive. Thanks for visiting!
